@@ -1,3 +1,4 @@
+#copyright of this code have Abdirizak abdullahi hussein 
 # Guess the number limit 
 
 guess = ''
